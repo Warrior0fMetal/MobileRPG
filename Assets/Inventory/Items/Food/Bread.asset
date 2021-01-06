@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f15b5c0f9b92bce43bb1c444e14b3ab2, type: 3}
+  m_Name: Bread
+  m_EditorClassIdentifier: 
+  Id: 0
+  icon: {fileID: 21300000, guid: ccbeb9292a67b734daa2974de5f25c79, type: 3}
+  type: 1
+  isStackable: 1
+  itemName: Bread
+  description: 
+  restoreHungerValue: 0
